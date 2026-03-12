@@ -5,7 +5,7 @@ A practical documentation of web application security research conducted in cont
 ## Author
 **Alexa Stefan-George**  
 Computer Science Student @ Babeș-Bolyai University, Cluj-Napoca  
-[LinkedIn](www.linkedin.com/in/stefangeorgealexa) | [GitHub]([#](https://github.com/stefanalexa25)
+[LinkedIn](www.linkedin.com/in/stefangeorgealexa) | [GitHub](https://github.com/stefanalexa25)
 
 ---
 
